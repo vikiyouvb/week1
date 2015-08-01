@@ -1,0 +1,5 @@
+
+interface Mammal extends Animal
+{
+	
+}
